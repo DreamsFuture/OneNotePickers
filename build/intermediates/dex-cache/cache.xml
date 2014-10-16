@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\classes-099f9f847e6cd28af7e9b02966ac4af630365296.jar"
+        jar="C:\screencasts\OneNotePickerDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\classes-01b3786dfaff4f167f6335c7fb43e5f615cba7f5.jar"
+        jar="C:\screencasts\OneNotePickerDemo\app\build\intermediates\exploded-aar\com.microsoft.onenote\OneNotePicker-Android\1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5c956e6728fb51775a82760a8e0dab82f168ec6d"/>
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\classes-14d8f2041587c0d5f231fc5a4b1b86d130c71236.jar"
+        jar="C:\screencasts\OneNotePickerDemo\app\build\intermediates\exploded-aar\com.microsoft.live\LiveSdkForAndroid\1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ac205d593ec3546dedb38ca7b533621026dcbad2"/>
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\classes-45445ed85d16cd52df57ef0b6063dbaa1cd8e9e7.jar"
+        jar="C:\screencasts\OneNotePickerDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-8714a069ef9e14cf35b5395a3f4c95def588efdc.jar"
+        jar="C:\screencasts\OneNotePickerDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\screencasts\OneNotePickerDemo\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-00c0220922c5beecf1d6aecad1097a83b00e504b.jar"
+        jar="C:\dev\android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
